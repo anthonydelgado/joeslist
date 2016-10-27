@@ -1,2 +1,2 @@
 # joeslist
-A craigslist clone writen in NodeJS
+A craigslist clone written in NodeJS
