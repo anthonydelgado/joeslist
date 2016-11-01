@@ -7,7 +7,8 @@ A craigslist API written in NodeJS
 
 ### API Endpoints
 
-List of latest for sale items in New York City. 
+List of latest for sale items in New Jersey.
+
 
 ```
 https://dreadful-crypt-32491.herokuapp.com/api/list
