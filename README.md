@@ -6,7 +6,7 @@ A craigslist API written in NodeJS
 
 
 ### API Endpoints
-
+BLAH BLAH
 List of latest for sale items in New York City. 
 
 ```
