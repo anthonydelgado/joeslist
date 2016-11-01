@@ -2,6 +2,7 @@
 
 A craigslist API written in NodeJS
 
+![Alt text](https://raw.githubusercontent.com/anthonydelgado/joeslist/master/screenshot.png)
 
 
 ### API Endpoints
