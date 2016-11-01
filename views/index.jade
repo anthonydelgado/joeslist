@@ -1,0 +1,17 @@
+extends layout
+
+block content
+  br
+  nav.purple.darken-4
+    .nav-wrapper
+      form(method='post')
+        .input-field
+          input#search(type='search',name='search')
+          label(for='search')
+            i.material-icons search
+          i.material-icons close
+  .collection
+    for item in items
+      a.collection-item.purple-text(href=item.url,target='_blank')= item.title
+    else
+      li sorry, no books!
